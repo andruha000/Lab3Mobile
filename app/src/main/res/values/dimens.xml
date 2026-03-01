@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_margin">8dp</dimen>
+    <dimen name="item_corner">12dp</dimen>
+    <dimen name="item_elevation">4dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="margin_medium">10dp</dimen>
+    <dimen name="day_size_small">16sp</dimen>
+    <dimen name="title_size_small">24sp</dimen>
+    <dimen name="description_size_small">20sp</dimen>
+    <dimen name="day_size_medium">32sp</dimen>
+    <dimen name="title_size_medium">36sp</dimen>
+    <dimen name="description_size_medium">28sp</dimen>
+    <dimen name="frame_height_small">180dp</dimen>
+    <dimen name="frame_height_small_land">130dp</dimen>
+    <dimen name="frame_height_medium">450dp</dimen>
+    <dimen name="frame_height_medium_land">450dp</dimen>
+    <dimen name="line_spacing_extra">4dp</dimen>
+    <dimen name="zero_width">0dp</dimen>
+    <dimen name="item_width_small">360dp</dimen>
+    <dimen name="item_width_medium">660dp</dimen>
+    <dimen name="image_height_small">300dp</dimen>
+    <dimen name="image_height_medium">550dp</dimen>
+</resources>
